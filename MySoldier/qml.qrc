@@ -1,5 +1,24 @@
 <RCC>
     <qresource prefix="/">
         <file>main.qml</file>
+        <file>Character/Soldier.qml</file>
+        <file>Resource/Music/Cyberpunk Moonlight Sonata.mp3</file>
+        <file>Resource/Picture/Soldier/ActionSprite/LeftRun.png</file>
+        <file>Resource/Picture/Soldier/ActionSprite/RightRun.png</file>
+        <file>Resource/Picture/Soldier/ActionSprite/LeftAttack.png</file>
+        <file>Resource/Picture/Soldier/ActionSprite/LeftDash.png</file>
+        <file>Resource/Picture/Soldier/ActionSprite/LeftDeath.png</file>
+        <file>Resource/Picture/Soldier/ActionSprite/LeftFall.png</file>
+        <file>Resource/Picture/Soldier/ActionSprite/LeftIdle.png</file>
+        <file>Resource/Picture/Soldier/ActionSprite/LeftJump.png</file>
+        <file>Resource/Picture/Soldier/ActionSprite/LeftTakeHit.png</file>
+        <file>Resource/Picture/Soldier/ActionSprite/RightAttack.png</file>
+        <file>Resource/Picture/Soldier/ActionSprite/RightDash.png</file>
+        <file>Resource/Picture/Soldier/ActionSprite/RightDeath.png</file>
+        <file>Resource/Picture/Soldier/ActionSprite/RightFall.png</file>
+        <file>Resource/Picture/Soldier/ActionSprite/RightIdle.png</file>
+        <file>Resource/Picture/Soldier/ActionSprite/RightJump.png</file>
+        <file>Resource/Picture/Soldier/ActionSprite/RightTakeHit.png</file>
+        <file>Resource/Music/SoundEffect/SwordAttack.wav</file>
     </qresource>
 </RCC>
